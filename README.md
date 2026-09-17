@@ -1,14 +1,10 @@
-╝
-```
-
----
-
 ```bash
 $ whoami
 > usef0x
 > Penetration Tester
 > "The quieter you become, the more you can hear."
 ```
+
 
 ---
 

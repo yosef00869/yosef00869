@@ -1,20 +1,12 @@
+╝
 ```
-  ██╗ ██████╗███████╗ ██████╗ ██╗  ██╗
-  ██║██╔═══██╗██╔════╝██╔═████╗╚██╗██╔╝
-  ██║██║   ██║█████╗  ██║██╔██║ ╚███╔╝ 
-  ██║██║   ██║██╔══╝  ████╔╝██║ ██╔██╗ 
-  ██║╚██████╔╝███████╗╚██████╔╝██╔╝ ██╗
-  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=999999&color=00FF41&center=true&vCenter=true&width=500&lines=Penetration+Tester+%26+Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ```bash
 $ whoami
-> Youssef Mabrouk — aka Joe0x
-> Penetration Tester & Ethical Hacker
+> usef0x
+> Penetration Tester
 > "The quieter you become, the more you can hear."
 ```
 
